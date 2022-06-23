@@ -1,2 +1,2 @@
-# projeto-dio
-Projeto aplicação-teste da plataforma dio
+# Projeto Aplicação-teste dio
+Primeiro projeto aplicação-teste na plataforma dio.
